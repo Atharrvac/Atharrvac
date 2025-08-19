@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 - 🔭 I'm currently working on AI + Web Development projects
 - 📱 Beginner in **iOS App Development (Swift/SwiftUI)** 
 - 👯 I'm looking to collaborate on hackathons and open-source contributions  
-- 🌱 Currently diving deep into **MERN,Xcode and Generative AI**  
+- 🌱 Currently diving deep into **Express,React,Node,Xcode and Generative AI**  
 - 💬 Ask me about **Web Development, Java, React, AI tools**  
 - 📫 How to reach me: atharvachaudhari558@gmail.com  
 - ⚡ Fun fact: I code, gym, and repeat 💪  
@@ -67,7 +67,7 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 
 - 🚀 Preparing for **hackathons & internships**  
 - 📚 Learning **Generative AI, Web Dev & DBMS**  
-- 💻 Building **projects with MERN,Xcode and OpenAI APIs**  
+- 💻 Building ** projects with React, Express, Node.js, Swift, and OpenAI APIs to create smart and scalable applications 🚀**  
 - 🏋️ Hitting the **gym daily** for balance and discipline  
 
 ---
