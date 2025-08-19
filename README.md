@@ -64,11 +64,11 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 
 - 🚀 Preparing for **hackathons & internships**  
 - 📚 Learning **Generative AI, Web Dev & DBMS**  
-- 💻 Building **projects with React, Spring Boot, and OpenAI APIs**  
+- 💻 Building **projects with MERN,Xcode and OpenAI APIs**  
 - 🏋️ Hitting the **gym daily** for balance and discipline  
 
 ---
 
-*"The best way to predict the future is to build it."* – Alan Kay  
+*"The best way to predict the future is to build it.  
 
 Thanks for visiting my profile! Feel free to connect or collaborate 🚀  
