@@ -21,7 +21,7 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
 ### Tools & Platforms  
@@ -38,14 +38,11 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 - **[AI-Chatbot](#)** - A full-stack AI-powered chatbot built with React + Spring Boot + OpenAI  
 
 ### 💸 Expense Tracker  
-- **[Expense-Tracker](#)** - A finance management app to track and analyze expenses  
+- **[Expense-Tracker](#)** - A finance management app to track and analyze expenses
 
-### 🌡️ Temperature Converter  
-- **[Temperature-Converter](#)** - Simple and fast temperature conversion tool  
-
-### 🧮 Calculator Apps  
-- **[Calculator-App](#)** - A modern calculator built with React & JavaScript  
-
+### ♻️ E-Waste AI  
+- **[E-Waste-AI](#)** - An AI-powered project to classify electronic waste, suggest safe disposal methods, and connect users to nearby recycling centers.
+  
 ---
 
 ## GitHub Stats 📊  
