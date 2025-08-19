@@ -72,6 +72,6 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 
 ---
 
-*"The best way to predict the future is to build it.  
+*"The best way to predict the future is to build it."*
 
 Thanks for visiting my profile! Feel free to connect or collaborate 🚀  
