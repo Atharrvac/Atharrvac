@@ -4,9 +4,10 @@
 
 I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who loves exploring new technologies and building impactful projects. I enjoy hands-on learning, collaborating with developers, and solving real-world problems through code.  
 
-- 🔭 I'm currently working on AI + Web Development projects  
+- 🔭 I'm currently working on AI + Web Development projects
+- 📱 Beginner in **iOS App Development (Swift/SwiftUI)** 
 - 👯 I'm looking to collaborate on hackathons and open-source contributions  
-- 🌱 Currently diving deep into **React, Spring Boot, and Generative AI**  
+- 🌱 Currently diving deep into **MERN,Xcode and Generative AI**  
 - 💬 Ask me about **Web Development, Java, React, AI tools**  
 - 📫 How to reach me: atharvachaudhari558@gmail.com  
 - ⚡ Fun fact: I code, gym, and repeat 💪  
