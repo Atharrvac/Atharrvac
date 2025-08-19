@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 - 👯 I'm looking to collaborate on hackathons and open-source contributions  
 - 🌱 Currently diving deep into **React, Spring Boot, and Generative AI**  
 - 💬 Ask me about **Web Development, Java, React, AI tools**  
-- 📫 How to reach me: **[your-email@gmail.com]**  
+- 📫 How to reach me: atharvachaudhari558@gmail.com  
 - ⚡ Fun fact: I code, gym, and repeat 💪  
 
 ---
