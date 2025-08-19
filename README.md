@@ -67,7 +67,7 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 
 - 🚀 Preparing for **hackathons & internships**  
 - 📚 Learning **Generative AI, Web Dev & DBMS**  
-- 💻 Building ** projects with React, Express, Node.js, Swift, and OpenAI APIs to create smart and scalable applications 🚀**  
+- 💻 Building innovative projects with React, Express, Node.js, Swift, and OpenAI APIs to create smart and scalable applications 🚀
 - 🏋️ Hitting the **gym daily** for balance and discipline  
 
 ---
