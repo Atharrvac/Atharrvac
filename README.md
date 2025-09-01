@@ -41,8 +41,10 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 ## Featured Projects 🌟
 
 ### 🤖 AI Chatbot  
-- **[AI-Chatbot](#)** - A full-stack AI-powered chatbot built with React + Spring Boot + OpenAI  
-
+- **[AI-Chatbot](#)** – A full-stack **LLM-powered chatbot** built with  
+  ⚛️ **React** (frontend) + 🌐 **Node.js & Express** (backend) + 🧠 **OpenAI LLMs**  
+  Provides natural conversations, contextual memory, and real-time AI responses.
+  
 ### 💸 Expense Tracker  
 - **[Expense-Tracker](#)** - A finance management app to track and analyze expenses
 
