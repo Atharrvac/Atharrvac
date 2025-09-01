@@ -46,10 +46,16 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
   Provides natural conversations, contextual memory, and real-time AI responses.
   
 ### 💸 Expense Tracker  
-- **[Expense-Tracker](#)** - A finance management app to track and analyze expenses
-
+- **[Expense-Tracker](#)** – A smart **personal finance management app** to  
+  📊 **Track daily expenses**, 📈 **analyze spending patterns**, and 💡 **gain insights**  
+  Built for simplicity, speed, and powerful financial control.
+  
 ### ♻️ E-Waste AI  
-- **[E-Waste-AI](#)** - An AI-powered project to classify electronic waste, suggest safe disposal methods, and connect users to nearby recycling centers.
+- **[E-Waste-AI](#)** – An intelligent **AI-driven sustainability platform** that  
+  🔍 **Classifies electronic waste** using machine learning & LLMs  
+  🛡️ **Suggests safe disposal & recycling methods**  
+  📍 **Connects users to nearby certified recycling centers**  
+  🌱 Built to promote a **cleaner, greener, and tech-sustainable future**  
   
 ---
 
