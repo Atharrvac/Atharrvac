@@ -156,7 +156,7 @@ Smart India Hackathon 2025 Winner.
 
 - 🚀 Preparing for **hackathons & internships**  
 - 📚 Learning **Generative AI, Web Dev & DBMS**  
-- 💻 Building innovative projects with React, Express, Node.js, Swift, and OpenAI APIs to create smart and scalable applications 🚀
+- 💻 Building innovative projects with React/React Native, Express, Node.js, Swift, and OpenAI APIs to create smart and scalable applications 🚀
 - 🏋️ Hitting the **gym daily** for balance and discipline  
 
 ---
