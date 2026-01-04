@@ -98,11 +98,6 @@ AdiBandhu is an AI-enabled **Decision Support System (DSS)** aimed at improving 
 
 ---
 
-## 📌 Author
-**Atharva Chaudhari**  
-B.Tech | Full-Stack & AI Developer  
-Smart India Hackathon 2025 Winner.
-
 ## ♻️ E-Waste AI – Intelligent E-Waste Management Platform  
 
 E-Waste AI is an **AI-driven sustainability platform** designed to improve electronic waste classification, safe disposal, and recycling through intelligent automation.
@@ -131,6 +126,12 @@ E-Waste AI is an **AI-driven sustainability platform** designed to improve elect
 - Promotes **environmentally responsible disposal** of electronic waste  
 - Reduces improper e-waste handling and landfill contribution  
 - Encourages adoption of **sustainable recycling practices**
+
+- 
+## 📌 Author
+**Atharva Chaudhari**  
+B.Tech | Full-Stack & AI Developer  
+Smart India Hackathon 2025 Winner.
 
 
 
