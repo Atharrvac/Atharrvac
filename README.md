@@ -39,17 +39,69 @@ I'm a passionate **Full-Stack Developer in Progress** and **AI Enthusiast** who 
 ---
 
 ## Featured Projects 🌟
+# 🚜 AgriSure – Hedging Platform for Oilseed Farmers  
+**Smart India Hackathon 2025**
 
-### 🤖 AI Chatbot  
-- **[AI-Chatbot](#)** – A full-stack **LLM-powered chatbot** built with  
-  ⚛️ **React** (frontend) + 🌐 **Node.js & Express** (backend) + 🧠 **OpenAI LLMs**  
-  Provides natural conversations, contextual memory, and real-time AI responses.
-  
-### 💸 Expense Tracker  
-- **[Expense-Tracker](#)** – A smart **personal finance management app** to  
-  📊 **Track daily expenses**, 📈 **analyze spending patterns**, and 💡 **gain insights**  
-  Built for simplicity, speed, and powerful financial control.
-  
+AgriSure is a farmer-centric digital platform designed to **simulate price-risk hedging** for oilseed crops, helping farmers understand market volatility and make informed decisions.
+
+## 🔹 Features
+- 📊 Virtual price-risk hedging simulation for oilseed crops  
+- 📈 AI-based price prediction model  
+- 🧾 Farmer-friendly dashboards with simplified insights  
+- 🎙️ Multilingual AI voicebot for easy interaction  
+- 📱 Cross-platform support (Android & iOS)
+
+## 🔹 System Design
+- Designed complete **system flow and feature architecture**
+- Virtual futures trading simulation module
+- Optimized backend to support **up to 1,000 concurrent users**
+- Performance tuned to work within **Supabase free-tier constraints**
+
+## 🔹 Tech Stack
+- Frontend: React / React Native  
+- Backend: Node.js, Express  
+- Database & Auth: Supabase  
+- AI/ML: Python (Price Prediction), LLM-based Voice Assistant  
+- Deployment: Cloud-based
+
+---
+
+# 🌱 AdiBandhu – Tribal Welfare Decision Support System  
+**Social Impact Project**
+
+AdiBandhu is an AI-enabled **Decision Support System (DSS)** aimed at improving the implementation of the **Forest Rights Act (FRA)** and tribal welfare schemes.
+
+## 🔹 Features
+- 📋 Structured workflows for welfare scheme monitoring  
+- 🗂️ Record and document management system  
+- 🧠 AI-assisted decision support for authorities  
+- 📊 Data-driven insights for policy execution
+
+## 🔹 Contributions
+- Designed end-to-end **digital system architecture**
+- Implemented structured workflows for:
+  - Scheme tracking  
+  - Beneficiary records  
+  - Decision-making support
+- Improved usability and data organization through **real user feedback**
+
+## 🔹 Impact
+- Enhanced transparency in welfare scheme execution  
+- Reduced manual errors and data redundancy  
+- Improved accessibility for government officials and stakeholders
+
+## 🔹 Tech Stack
+- Frontend: React  
+- Backend: Node.js / Spring Boot  
+- Database: PostgreSQL / Supabase  
+- AI Components: ML-based analytics & rule-based decision logic
+
+---
+
+## 📌 Author
+**Atharva Chaudhari**  
+B.Tech | Full-Stack & AI Developer  
+Smart India Hackathon 2025 Participant
 ### ♻️ E-Waste AI  
 - **[E-Waste-AI](#)** – An intelligent **AI-driven sustainability platform** that  
   🔍 **Classifies electronic waste** using machine learning & LLMs  
