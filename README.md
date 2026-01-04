@@ -101,15 +101,40 @@ AdiBandhu is an AI-enabled **Decision Support System (DSS)** aimed at improving 
 ## 📌 Author
 **Atharva Chaudhari**  
 B.Tech | Full-Stack & AI Developer  
-Smart India Hackathon 2025 Participant
-### ♻️ E-Waste AI  
-- **[E-Waste-AI](#)** – An intelligent **AI-driven sustainability platform** that  
-  🔍 **Classifies electronic waste** using machine learning & LLMs  
-  🛡️ **Suggests safe disposal & recycling methods**  
-  📍 **Connects users to nearby certified recycling centers**  
-  🌱 Built to promote a **cleaner, greener, and tech-sustainable future**  
-  
----
+Smart India Hackathon 2025 Winner.
+
+## ♻️ E-Waste AI – Intelligent E-Waste Management Platform  
+
+E-Waste AI is an **AI-driven sustainability platform** designed to improve electronic waste classification, safe disposal, and recycling through intelligent automation.
+
+### 🔹 Key Features
+- 🔍 AI-powered **e-waste classification system** using machine learning and LLMs  
+- 🛡️ Intelligent recommendations for **safe disposal and recycling methods**  
+- 📍 Location-based service to **connect users with nearby certified recycling centers**  
+- 🌱 Sustainability-focused insights to encourage **responsible e-waste handling**
+
+### 🔹 System Design
+- Designed complete **end-to-end system flow and feature architecture**
+- Modular AI pipeline for waste classification and recommendation generation
+- Scalable backend architecture to support **high concurrent user traffic**
+- Optimized for **mobile-first experience** across Android and iOS
+
+### 🔹 Tech Stack
+- Frontend: React / React Native  
+- Backend: Node.js, Express  
+- AI/ML: Python, Machine Learning models, LLM integration  
+- Database & Auth: Supabase / PostgreSQL  
+- Maps & Location: Google Maps API  
+- Deployment: Cloud-based infrastructure
+
+### 🔹 Impact
+- Promotes **environmentally responsible disposal** of electronic waste  
+- Reduces improper e-waste handling and landfill contribution  
+- Encourages adoption of **sustainable recycling practices**
+
+
+
+
 
 ## GitHub Stats 📊  
 
